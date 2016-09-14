@@ -8,7 +8,7 @@ public class Tester {
 		System.out.println("(179 + 21 + 10) / 7 + 181" + " = " + ((179 + 21 + 10) / 7 + 181));
 		System.out.println();
 		System.out.println("10389 * 56 * 11 + 2246" + " = " + (10389 * 56 * 11 + 2246));
-		// TODO Auto-generated method stub
+	
 		
 	}
 	
